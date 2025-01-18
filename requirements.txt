@@ -1,0 +1,15 @@
+Flask
+albumentations
+torchvision
+tqdm
+pandas
+efficientnet-pytorch
+scikit-learn
+pillow
+torch 
+scipy
+matplotlib
+numpy
+plotly
+streamlit==1.27.2
+streamlit
